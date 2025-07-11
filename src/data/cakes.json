@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Chocolate Fudge Delight",
+    "price": 899,
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=400&h=300&fit=crop",
+    "rating": 4.8,
+    "category": "Chocolate"
+  },
+  {
+    "id": 2,
+    "name": "Vanilla Dream Cake",
+    "price": 749,
+    "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=400&h=300&fit=crop",
+    "rating": 4.6,
+    "category": "Vanilla"
+  },
+  {
+    "id": 3,
+    "name": "Red Velvet Romance",
+    "price": 999,
+    "image": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?w=400&h=300&fit=crop",
+    "rating": 4.9,
+    "category": "Red Velvet"
+  },
+  {
+    "id": 4,
+    "name": "Strawberry Bliss",
+    "price": 849,
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=300&fit=crop",
+    "rating": 4.7,
+    "category": "Fruit"
+  },
+  {
+    "id": 5,
+    "name": "Black Forest Special",
+    "price": 1099,
+    "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?w=400&h=300&fit=crop",
+    "rating": 4.8,
+    "category": "Chocolate"
+  },
+  {
+    "id": 6,
+    "name": "Lemon Zest Cake",
+    "price": 699,
+    "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+    "rating": 4.5,
+    "category": "Citrus"
+  },
+  {
+    "id": 7,
+    "name": "Butterscotch Crunch",
+    "price": 799,
+    "image": "https://images.unsplash.com/photo-1557925923-cd4648e211a0?w=400&h=300&fit=crop",
+    "rating": 4.6,
+    "category": "Butterscotch"
+  },
+  {
+    "id": 8,
+    "name": "Mango Surprise",
+    "price": 889,
+    "image": "https://images.unsplash.com/photo-1555617981-dac3880eac6e?w=400&h=300&fit=crop",
+    "rating": 4.7,
+    "category": "Fruit"
+  }
+]
